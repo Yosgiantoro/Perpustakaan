@@ -1,0 +1,1 @@
+HALOO SELAMAT DATANG, <?= $this->session->userdata('nama');  ?>
